@@ -164,14 +164,6 @@ Computes surge multipliers (1.2x to 2.5x) for every NYC taxi zone.
 
 ---
 
-## Acknowledgements
-
-- NYC Taxi & Limousine Commission (TLC) for open datasets  
-- GeoPandas, NetworkX, TensorFlow, Pandas, NumPy  
-- Jupyter Notebook for interactive experimentation  
-
----
-
 ## Summary
 
 This project demonstrates an end-to-end AI pipeline:
@@ -180,3 +172,9 @@ Taxi Zones → Graph → GCN + LSTM → Weather → Surge Pricing
 
 It combines spatial modeling, time-series forecasting, weather intelligence, and dynamic pricing logic to create a practical, real-world NYC mobility prediction system.
 """
+
+---
+
+## Acknowledgements
+
+- NYC Taxi & Limousine Commission (TLC) for open datasets  
