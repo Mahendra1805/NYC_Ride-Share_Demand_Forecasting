@@ -68,6 +68,7 @@ This pipeline supports real-time decision-making, zone-level demand forecasting,
 
 ## Project Structure
 
+
 NYC_TLC_Project/
 │
 ├── 1.NYC_Taxi_Zones_Adjacency_Graph.ipynb                 # Problem Statement 1  
@@ -178,3 +179,4 @@ It combines spatial modeling, time-series forecasting, weather intelligence, and
 ## Acknowledgements
 
 - NYC Taxi & Limousine Commission (TLC) for open datasets  
+
